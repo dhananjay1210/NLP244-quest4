@@ -1,0 +1,11 @@
+datasets
+transformers
+torch
+python-dotenv
+protobuf==3.20.1
+evaluate
+wandb
+huggingface_hub
+pickle
+sentencepiece
+tqdm
